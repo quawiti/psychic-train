@@ -78,6 +78,7 @@ def show_question():
 #         show_result()
 #     else:
 #         show_question()
+# вас обманули это не physics-train, это psychic-train!!!!
 answers_list = [ans1, ans2, ans3, ans4]
 def ask(q: Question):
     shuffle(answers_list)
